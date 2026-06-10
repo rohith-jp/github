@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohith JP </h1>
 
 <h3 align="center">
-B.e Computer Science Engineering Student | SRM EASWARI, RMP | Aspiring AI/ML & Software Developer
+B.E Computer Science Engineering Student | SRM EASWARI, RMP | Aspiring AI/ML & Software Developer
 </h3>
 
 ---
