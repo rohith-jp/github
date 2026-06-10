@@ -28,7 +28,7 @@ B.e Computer Science Engineering Student | SRM EASWARI, RMP | Aspiring AI/ML & S
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/surya-radhakrishnan-1074b5376" target="_blank">
+<a href="linkedin.com/in/rohith-j-p-987a86381" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
