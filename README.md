@@ -19,7 +19,7 @@ B.e Computer Science Engineering Student | SRM EASWARI, RMP | Aspiring AI/ML & S
 ## 📫 How to Reach Me
 
 - 📧 Email:mailto:rohithprakash0996@gmail.com
-- 💼 LinkedIn:linkedin.com/in/rohith-j-p-987a86381
+- 💼 LinkedIn:linkedin.com/in/rohith-j-p-987a86381](https://www.linkedin.com/in/rohith-j-p-987a86381
 - 🏆 LeetCode: https://leetcode.com/u/Rohith_JP/
 
 ---
@@ -28,7 +28,7 @@ B.e Computer Science Engineering Student | SRM EASWARI, RMP | Aspiring AI/ML & S
 
 <p align="left">
 
-<a href="linkedin.com/in/rohith-j-p-987a86381" target="_blank">
+<a href="linkedin.com/in/rohith-j-p-987a86381](https://www.linkedin.com/in/rohith-j-p-987a86381" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
